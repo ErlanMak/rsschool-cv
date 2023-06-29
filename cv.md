@@ -9,9 +9,9 @@ My goal is to have a high-paying job from anywhere in the world. I don't have ex
 * JavaScript (Basic)
 * Git/GitHub
 * Photoshop
-## Code: 5. 
-## Experience:
-## Education: 
+## Code
+## Experience
+## Education
 I graduated from KazATU University in Astana, specializing in Information Systems.
-## English: 8. 
+## English
 English language proficiency at the A2 level.
